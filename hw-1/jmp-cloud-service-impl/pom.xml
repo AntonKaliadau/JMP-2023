@@ -15,13 +15,11 @@
             <groupId>com.epam</groupId>
             <artifactId>jmp.bank.api</artifactId>
             <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>com.epam</groupId>
             <artifactId>hw-1</artifactId>
             <version>1.0-SNAPSHOT</version>
-            <scope>compile</scope>
         </dependency>
     </dependencies>
 
